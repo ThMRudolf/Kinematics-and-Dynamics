@@ -1,5 +1,5 @@
 ---
-title: "Automation and Process Control" #Automation and Industrial Robots" Automation and Process Control
+title: "Kineamatics and Dynamics"
 output: 
   html_document:
     toc: true
@@ -7,53 +7,19 @@ author: Thomas M. Rudolf
 editor: visual
 email_address: thomas.rudolf@itam.mx
 toc: false
-toc-title: "Index 2024-3"
+toc-title: "Index 2025-3"
 ---
 
-# Introduction
+# Introduction to kinematics
 
--   Definition of Automation
 
--   Process Control
+# Force
 
--   Types of different Industrial Processes
 
-# Pneumatic and Electro-pneumatic Automatization
+# Basic concepts of Work and Energy
 
--   Elements of a neumatic circuit
 
--   Elements of a electic circuit, electrical acutators and control elements
+# Dynamics
 
--   Automatization of neumatic and electroneumatic sequences
 
-# Programable Logical Control (PLC)
-
--   Logical Operations with ladder diagram
-
--   Input and output variables, internal registers of PLC
-
--   Different componentens and instructions of PLC programation
-
-# GRAFCET - Funcional Graph of Stage-Transition Control
-
--   Stages and transition conditions
-
--   Rules to develope a GRAFCET
-
--   Transformation of a GRAFCET into a ladder diagram lenguaje Ladder
-
-# State flow
-
--   Introduction to state flow in Matlab
-
--   States and transitions
-
--   Control a simulation enviroment with state flow
-
--   Control a plant with state flow
-
-# Industrial Robots (optional)
-
--   Introductions to industrial robots
-
--   Security topics for usage of industrial robots
+# Mechnical Vibrations
