@@ -8,7 +8,7 @@ book:
   title: "Kinematics and Dynamics" 
   author: "Thomas M. Rudolf"
   chapters:
-    #- index.qmd
+    - index.qmd
     - chapter00.qmd
     - chapter01.qmd
     - chapter02.qmd 
