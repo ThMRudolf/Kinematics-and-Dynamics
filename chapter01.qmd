@@ -1,0 +1,9 @@
+---
+title: "Introduction to Kinematics"
+author: "Thomas M. Rudolf"
+format: html
+editor: visual
+---
+
+## Definition
+

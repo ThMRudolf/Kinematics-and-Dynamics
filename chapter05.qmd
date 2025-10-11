@@ -1,0 +1,8 @@
+---
+title: "Mechanical Vibrations"
+author: "Thomas M. Rudolf"
+format: html
+editor: visual
+---
+
+##

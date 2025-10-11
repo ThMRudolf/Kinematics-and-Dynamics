@@ -13,9 +13,9 @@ book:
     - chapter01.qmd
     - chapter02.qmd 
     - chapter03.qmd
-    - chapter04.qmd
+    - chapter04.qmd 
     - chapter05.qmd
-    - chapter06.qmd      
+    
 
 website:
   title: "HOME" # "Automatation and Industrial Robots"
@@ -47,15 +47,15 @@ website:
         contents: 
           - chapter03.qmd
           - #chapter03.qmd #exc_chapter03.qmd
-      - section: Chapter 4
+      - section: Chapter 34
         contents: 
           - chapter04.qmd
+          - #chapter03.qmd #exc_chapter03.qmd
       - section: Chapter 5
         contents: 
           - chapter05.qmd
-      - section: Chapter 6
-        contents: 
-          - chapter06.qmd
+          - #chapter03.qmd #exc_chapter03.qmd
+      
       - section: About
         contents: 
           - about.qmd
