@@ -5,7 +5,7 @@ project:
   type: book
   output-dir: docs
 book:
-  title: "Automatation and Industrial Robots" 
+  title: "Kinematics and Dynamics" 
   author: "Thomas M. Rudolf"
   chapters:
     - index.qmd
@@ -30,7 +30,7 @@ website:
     style: docked
     search: true
     contents:
-      - section: Index (2024-3)
+      - section: Index (2026-1)
         contents: 
           - index.qmd
       - section: About the lecture
