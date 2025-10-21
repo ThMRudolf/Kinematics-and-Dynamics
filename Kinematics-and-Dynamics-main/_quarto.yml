@@ -1,0 +1,69 @@
+execute:
+  freeze: auto
+
+project:
+  type: book
+  output-dir: docs
+book:
+  title: "Kinematics and Dynamics" 
+  author: "Thomas M. Rudolf"
+  chapters:
+    - index.qmd
+    - chapter00.qmd
+    - chapter01.qmd
+    - chapter02.qmd 
+    - chapter03.qmd
+    - chapter04.qmd 
+    - chapter05.qmd
+    
+
+website:
+  title: "HOME" # "Automatation and Industrial Robots"
+  #author: "Thomas M. Rudolf"
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: Index (2026-1)
+        contents: 
+          - index.qmd
+      - section: About the lecture
+        contents: 
+          - chapter00.qmd
+      - section: Chapter 1
+        contents: 
+          - chapter01.qmd
+      - section: Chapter 2
+        contents: 
+          - chapter02.qmd
+          - #exc_chapter02.qmd
+      - section: Chapter 3
+        contents: 
+          - chapter03.qmd
+          - #chapter03.qmd #exc_chapter03.qmd
+      - section: Chapter 34
+        contents: 
+          - chapter04.qmd
+          - #chapter03.qmd #exc_chapter03.qmd
+      - section: Chapter 5
+        contents: 
+          - chapter05.qmd
+          - #chapter03.qmd #exc_chapter03.qmd
+      
+      - section: About
+        contents: 
+          - about.qmd
+format:
+  html:
+    theme: default
+    css: style.css
+    toc: false
+    toc-location: left
+    toc-depth: 3
+editor: visual

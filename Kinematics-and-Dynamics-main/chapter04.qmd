@@ -1,0 +1,8 @@
+---
+title: "Dynamics"
+author: "Thomas M. Rudolf"
+format: html
+editor: visual
+---
+
+## Introduction to PLCs
