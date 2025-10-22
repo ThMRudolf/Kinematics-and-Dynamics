@@ -27,7 +27,6 @@ editor: visual
 
 ## What is covered in this lecture:
 
-
 ## What is not covered in this lecture:
 
 -   It is not a lectur about pneumatics nor hydraulics.
@@ -35,19 +34,11 @@ editor: visual
 
 ## Evaluation
 
-+----------------------------------------------------------+--------------+
-| Type                                                     | percentage   |
-+==========================================================+==============+
-| 2 Parcials:                                              | 25 % each    |
-|                                                          |              |
-| -   1st partial: tbd  (1 hr, 20 min) |              |
-|                                                          |              |
-| -   2nd partial: tbd (1 hr, 20 min) |              |
-+----------------------------------------------------------+--------------+
-| Final Project (Exam final: tbd (LMINT))                  | 30%          |
-+----------------------------------------------------------+--------------+
-| Laboratory                                               | 20%          |
-+----------------------------------------------------------+--------------+
+| Type | percentage |
+|----|----|
+| 2 Parcials: \| 25 % each \| - 1st partial: tbd (1 hr, 20 min) \| \| \| - 2nd partial: tbd (1 hr, 20 min) \| \| |  |
+| Final Project (Exam final: tbd (LMINT)) | 30% |
+| Laboratory | 20% |
 
 ## Course rules
 
