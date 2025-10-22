@@ -1,24 +1,16 @@
-## Topics
-
--   
 ---
-title: "Kineamatics and Dynamics"
-output: 
-  html_document:
-    toc: true
-author: Thomas M. Rudolf
+title: "About the course"
+author: Thomas M. Rudolf"
+format: html
 editor: visual
-email_address: thomas.rudolf@itam.mx
-toc: false
-toc-title: "Index 2025-3"
 ---
 
-# Introduction to kinematics
+## Introduction to kinematics
 
-# Force
+## Force
 
-# Basic concepts of Work and Energy
+## Basic concepts of Work and Energy
 
-# Dynamics
+## Dynamics
 
-# Mechnical Vibrations
+## Mechnical Vibrations
