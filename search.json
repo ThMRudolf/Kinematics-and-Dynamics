@@ -72,11 +72,51 @@
   {
     "objectID": "chapter00.html",
     "href": "chapter00.html",
-    "title": "Kineamatics and Dynamics",
+    "title": "2  About the course",
     "section": "",
-    "text": "3 Introduction to kinematics\n\n\n4 Force\n\n\n5 Basic concepts of Work and Energy\n\n\n6 Dynamics\n\n\n7 Mechnical Vibrations",
+    "text": "2.1 Introduction to kinematics",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kineamatics and Dynamics</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About the course</span>"
+    ]
+  },
+  {
+    "objectID": "chapter00.html#force",
+    "href": "chapter00.html#force",
+    "title": "2  About the course",
+    "section": "2.2 Force",
+    "text": "2.2 Force",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About the course</span>"
+    ]
+  },
+  {
+    "objectID": "chapter00.html#basic-concepts-of-work-and-energy",
+    "href": "chapter00.html#basic-concepts-of-work-and-energy",
+    "title": "2  About the course",
+    "section": "2.3 Basic concepts of Work and Energy",
+    "text": "2.3 Basic concepts of Work and Energy",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About the course</span>"
+    ]
+  },
+  {
+    "objectID": "chapter00.html#dynamics",
+    "href": "chapter00.html#dynamics",
+    "title": "2  About the course",
+    "section": "2.4 Dynamics",
+    "text": "2.4 Dynamics",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About the course</span>"
+    ]
+  },
+  {
+    "objectID": "chapter00.html#mechnical-vibrations",
+    "href": "chapter00.html#mechnical-vibrations",
+    "title": "2  About the course",
+    "section": "2.5 Mechnical Vibrations",
+    "text": "2.5 Mechnical Vibrations",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About the course</span>"
     ]
   },
   {
