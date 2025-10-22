@@ -1,8 +1,0 @@
----
-title: "Force"
-author: "Thomas M. Rudolf"
-format: html
-editor: visual
----
-
-##
