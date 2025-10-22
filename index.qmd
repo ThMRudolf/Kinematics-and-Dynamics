@@ -5,42 +5,42 @@ format: html
 editor: visual
 ---
 
-## General Information about the lecture
+# General Information about the lecture
 
-### Schedules
+## Schedules
 
 -   Theory: Mon / Wed, 12:30-14:00 hrs
 
 -   Laboratory:
 
-### Lecturers
+## Lecturers
 
 -   Prof. Thomas M. Rudolf (theory)
 
-### Location
+## Location
 
 -   Aula LMINT
 
-## Description and Objetives
+# Description and Objetives
 
 -   
 
-## What is covered in this lecture:
+# What is covered in this lecture:
 
-## What is not covered in this lecture:
+# What is not covered in this lecture:
 
 -   It is not a lectur about pneumatics nor hydraulics.
 -   It is not a fluid dynamics lecture.
 
-## Evaluation
+# Evaluation
 
 | Type | percentage |
-|----|----|
+|------------------------------------|------------------------------------|
 | 2 Parcials: \| 25 % each \| - 1st partial: tbd (1 hr, 20 min) \| \| \| - 2nd partial: tbd (1 hr, 20 min) \| \| |  |
 | Final Project (Exam final: tbd (LMINT)) | 30% |
 | Laboratory | 20% |
 
-## Course rules
+# Course rules
 
 -   Maximum 10 minutes delay.
 -   **NO** re-examinations.
