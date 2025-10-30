@@ -1,8 +1,114 @@
 ---
 title: "Introduction to Kinematics"
 author: "Thomas M. Rudolf"
-format: html
+format:
+  html:
+    toc: true
+    number-sections: true
 editor: visual
 ---
 
-## Definition
+## Structure
+
+Chapter 1: Statics  
+Chapter 2: Theory of Elasticity  
+Chapter 3: Kinetic of a Mass Point  
+
+Fundamental Concepts:  
+- Newton´s Law  
+- Free movement  
+- Guided movement  
+- Resistance: friction forces  
+- Principle of linear momentum  
+- Principle of angular momentum  
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Fundamentals of Newton´s Law
+
+### Static – Force Balance  
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+### 2nd Newton´s Law  
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## The Free Movement of a Mass Point (1/2)
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## The Free Movement of a Mass Point (2/2)
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Guided Movements
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+### FBD
+
+- applied force  
+- guiding force  
+
+### Exercise 11 task 2  
+Source: [2]
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Forces: Resistance
+
+Source: https://global.britannica.com/science/Navier-Stokes-equation  
+
+### Exercise 11 task 3  
+### Problem 11 task 2  
+Source: based on [2]
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Principle of Work and Energy: General
+
+Source: [5]
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Principle of Work and Energy:  
+### Kinetic Energy vs. Potential Energy  
+
+Source: based on [5]
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## Mechanical Power
+
+System  
+
+<span style="color:red">*INSERTAR IMAGEN*</span>
+
+---
+
+## References
+
+1. David H. Myszka, *Machines and Mechanisms: Applied Kinematic Analysis*, 4th Edition, Prentice Hall, 2012.  
+2. Hauger, Werner; Schnell, Walter; Gross, Dietmar: *Technische Mechanik – 3 Kinetik*, 6th Edition, Springer-Verlag, Berlin, Heidelberg, New York, 1995.  
+3. Louis L. Bucciarelli Jr., *Engineering Mechanics of Solids*, MIT, [http://web.mit.edu/emech/dontindex-build/](http://web.mit.edu/emech/dontindex-build/).  
+4. Sandor, B.I.; Roloff, R.; et al., *Mechanics of Solids*, CRC Press LLC, 1999.  
+5. Gross, Dietmar; Hauger, Werner; Schnell, Walter: *Technische Mechanik – 1 Statik*, 6th Edition, Springer-Verlag, Berlin, Heidelberg, New York, 1995.  
