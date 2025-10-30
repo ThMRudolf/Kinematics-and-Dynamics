@@ -94,7 +94,97 @@
     "href": "chapter01.html",
     "title": "3  Introduction to Kinematics",
     "section": "",
-    "text": "3.1 Definition",
+    "text": "3.1 Structure\nChapter 1: Statics\nChapter 2: Theory of Elasticity\nChapter 3: Kinetic of a Mass Point\nFundamental Concepts:\n- Newton´s Law\n- Free movement\n- Guided movement\n- Resistance: friction forces\n- Principle of linear momentum\n- Principle of angular momentum\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#fundamentals-of-newtons-law",
+    "href": "chapter01.html#fundamentals-of-newtons-law",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.2 Fundamentals of Newton´s Law",
+    "text": "3.2 Fundamentals of Newton´s Law\n\n3.2.1 Static – Force Balance\nINSERTAR IMAGEN\n\n\n\n3.2.2 2nd Newton´s Law\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#the-free-movement-of-a-mass-point-12",
+    "href": "chapter01.html#the-free-movement-of-a-mass-point-12",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.3 The Free Movement of a Mass Point (1/2)",
+    "text": "3.3 The Free Movement of a Mass Point (1/2)\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#the-free-movement-of-a-mass-point-22",
+    "href": "chapter01.html#the-free-movement-of-a-mass-point-22",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.4 The Free Movement of a Mass Point (2/2)",
+    "text": "3.4 The Free Movement of a Mass Point (2/2)\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#guided-movements",
+    "href": "chapter01.html#guided-movements",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.5 Guided Movements",
+    "text": "3.5 Guided Movements\nINSERTAR IMAGEN\n\n\n3.5.1 FBD\n\napplied force\n\nguiding force\n\n\n\n3.5.2 Exercise 11 task 2\nSource: [2]\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#forces-resistance",
+    "href": "chapter01.html#forces-resistance",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.6 Forces: Resistance",
+    "text": "3.6 Forces: Resistance\nSource: https://global.britannica.com/science/Navier-Stokes-equation\n\n3.6.1 Exercise 11 task 3\n\n\n3.6.2 Problem 11 task 2\nSource: based on [2]\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#principle-of-work-and-energy-general",
+    "href": "chapter01.html#principle-of-work-and-energy-general",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.7 Principle of Work and Energy: General",
+    "text": "3.7 Principle of Work and Energy: General\nSource: [5]\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#principle-of-work-and-energy",
+    "href": "chapter01.html#principle-of-work-and-energy",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.8 Principle of Work and Energy:",
+    "text": "3.8 Principle of Work and Energy:\n\n3.8.1 Kinetic Energy vs. Potential Energy\nSource: based on [5]\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#mechanical-power",
+    "href": "chapter01.html#mechanical-power",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.9 Mechanical Power",
+    "text": "3.9 Mechanical Power\nSystem\nINSERTAR IMAGEN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
+    ]
+  },
+  {
+    "objectID": "chapter01.html#references",
+    "href": "chapter01.html#references",
+    "title": "3  Introduction to Kinematics",
+    "section": "3.10 References",
+    "text": "3.10 References\n\nDavid H. Myszka, Machines and Mechanisms: Applied Kinematic Analysis, 4th Edition, Prentice Hall, 2012.\n\nHauger, Werner; Schnell, Walter; Gross, Dietmar: Technische Mechanik – 3 Kinetik, 6th Edition, Springer-Verlag, Berlin, Heidelberg, New York, 1995.\n\nLouis L. Bucciarelli Jr., Engineering Mechanics of Solids, MIT, http://web.mit.edu/emech/dontindex-build/.\n\nSandor, B.I.; Roloff, R.; et al., Mechanics of Solids, CRC Press LLC, 1999.\n\nGross, Dietmar; Hauger, Werner; Schnell, Walter: Technische Mechanik – 1 Statik, 6th Edition, Springer-Verlag, Berlin, Heidelberg, New York, 1995.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Kinematics</span>"
     ]
